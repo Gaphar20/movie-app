@@ -121,6 +121,12 @@ movie-app/
 └── README.md
 ```
 
+
+## 📸 Screenshots
+
+### Homepage
+
+![CineScope homepage](screenshots/cinescope-home.png)
 ## 🎯 Project Goals
 
 CineScope was built to practise and demonstrate:
